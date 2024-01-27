@@ -1,3 +1,9 @@
+/*
+ * TASK
+ * To find the Second Largest Element in an array
+ * If there is a no second largest element then return -1 
+ */
+
 public class C_Second_Largest_Element {
    
       public static int secMaxNum(int arr[], int size){

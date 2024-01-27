@@ -1,3 +1,10 @@
+/*
+ * TASK - 1
+ * Excercise for how to read the user Input.
+ * Also we will learn how to put the console values in array.
+ * 
+ */
+
 import java.util.Scanner;
 public  class A_How_to_read_arrayElements_from_input {
     

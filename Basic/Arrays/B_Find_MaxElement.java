@@ -1,3 +1,10 @@
+/*
+ * TASK -2
+ * Find the maximum element in an array
+ * You need to read the input from the console.
+ * If there is no Maximum element occurs [all are same ] then return -1
+ */
+
 import java.util.Scanner;
 
 public class B_Find_MaxElement{
