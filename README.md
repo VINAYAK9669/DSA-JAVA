@@ -2,9 +2,11 @@
 
 ## Arrays
 
-| Sr.No | Challenge Name | GitHub Repository Link | GeeksforGeeks/LeetCode Link/CodingNinja |
+| Sr.No | Challenge Name | GitHub Repository Link | GeeksforGeeks/LeetCode Link/CodingNinja | Youtube Link |
 |-------|-----------------|------------------------|-----------------------------|
-| 1.    | How to take input from the user and show it | <a href="https://github.com/VINAYAK9669/DSA-JAVA/blob/main/Basic/Arrays/A_How_to_read_arrayElements_from_input.java" target="_blank">GitHub Link</a>| Basic |
-| 2.    | Find the Maximum Element from an Array | <a href="https://github.com/VINAYAK9669/DSA-JAVA/blob/main/Basic/Arrays/B_Find_MaxElement.java" target="_blank">GitHub Link</a>| Basic |
-| 3.    | Find the Second Maximum | <a href="https://github.com/VINAYAK9669/DSA-JAVA/blob/main/Basic/Arrays/C_Second_Largest_Element.java" target="_blank">GitHub Link</a>| <a href="https://www.codingninjas.com/studio/problems/second-largest-element-in-the-array_873375?utm_source=youtube&utm_medium=affiliate&utm_campaign=parikh_youtube" target="_blank">CodingNinja Link</a> |
+| 1.    | How to take input from the user and show it | <a href="https://rb.gy/qin87f" target="_blank">GitHub Link</a>| Basic |
+| 2.    | Find the Maximum Element from an Array | <a href="https://rb.gy/wi5kc0" target="_blank">GitHub Link</a>| Basic |
+| 3.    | Find the Second Maximum | <a href="https://rb.gy/frn2i7" target="_blank">GitHub Link</a>| <a href="http://tinyurl.com/y7cpz5rc" target="_blank">CodingNinja Link</a> |
+| 4.    | Left Rotate the array by K | <a href="http://tinyurl.com/mr29d5w2" target="_blank">GitHub Link</a>| <a href="http://tinyurl.com/5n935mtb" target="_blank">CodingNinja Link</a> |  <a href="https://www.youtube.com/watch?v=oABQlhrhXzg" target="_blank">Video </a>
+
 
