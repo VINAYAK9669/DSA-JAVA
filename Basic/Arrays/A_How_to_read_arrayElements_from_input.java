@@ -2,7 +2,7 @@
  * TASK - 1
  * Excercise for how to read the user Input.
  * Also we will learn how to put the console values in array.
- * 
+
  */
 
 import java.util.Scanner;
@@ -29,10 +29,13 @@ public  class A_How_to_read_arrayElements_from_input {
             // Use nextInt() method to read the integer and assign it to the array
             array[i]= sc.nextInt();
         }
+        // Close the Scanner to release resources - otherwise memory leaks or other unexpected behavior can occur
+        sc.close();
         // Print the array which read from the console
         for(int i=0; i<size; i++){
         System.out.print(array[i]+" ");
         }
+        
         /*
          OUTPUT: 
          Enter the size of the array

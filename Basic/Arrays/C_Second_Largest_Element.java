@@ -2,8 +2,8 @@
  * TASK
  * To find the Second Largest Element in an array
  * If there is a no second largest element then return -1 
+ * Apply all the boundary condition
  */
-
 public class C_Second_Largest_Element {
    
       public static int secMaxNum(int arr[], int size){
@@ -11,6 +11,12 @@ public class C_Second_Largest_Element {
             int maxNum= Integer.MIN_VALUE;
             int secMaxNum = Integer.MIN_VALUE;
 
+             //  When the size of the array is zero we need to return secondMax always as -1
+        if (size == 0) {
+            // Handle the case where the array is empty
+        return -1;
+        }
+    //  Iterate through the array to find out firstMax and secondMax
             for(int i=0; i<size; i++){
                 if(maxNum < arr[i]){
                     secMaxNum =maxNum;
@@ -20,6 +26,7 @@ public class C_Second_Largest_Element {
                      secMaxNum= arr[i];
                 }
             }
+            // If the secMaxNum is same as initalized value, it means that secondMax does not exists.
             if(secMaxNum == Integer.MIN_VALUE) return -1;
             return secMaxNum;
 
